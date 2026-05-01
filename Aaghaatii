@@ -1,0 +1,21 @@
+AALAAGH-Royal-Studio/
+│
+├── public/
+│   ├── images/
+│   │   ├── user.png
+│   │   └── gold-car.png
+│   └── sounds/
+│       └── royal-entry.mp3
+│
+├── src/
+│   ├── pages/
+│   │   └── RoyalLogin.tsx
+│   ├── styles/
+│   │   └── RoyalLogin.css
+│   ├── main.tsx
+│   └── App.tsx
+│
+├── index.html
+├── package.json
+├── tsconfig.json
+└── vite.config.ts
